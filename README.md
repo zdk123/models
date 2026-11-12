@@ -1,12 +1,12 @@
 # Models
 
-Things I've designed in Rhino and printed. Each folder has the printable files (`.stl`, or `.3mf` with Bambu Studio print settings) and, where I have it, the Rhino source (`.3dm`), Grasshopper definitions (`.gh`) or a Rhino Python script.
+Things I've designed in Rhino for the 3D printer. Each folder has the printable files (`.stl`, or `.3mf` with Bambu Studio print settings) and, where I have it, the Rhino source (`.3dm`), Grasshopper definitions (`.gh`) or a Rhino Python script.
 
 ## Kitchen organizer
 
 ![Kitchen organizer, printed in blue and white, holding a brush, soap and sponges](kitchen-organizer/photo.jpg)
 
-A sink-side organizer, 206 × 83 mm, with a sponge slot and a textured top.
+A kitchen sink organizer, 206 × 83 mm, with slots for a dish brush, soap and sponges and ribbed outer walls.
 
 - `My_Kitchen_Organizer_top.stl`, `My_Kitchen_Organizer_bottom.stl`: printable parts
 - `Kitchen_org_top_fill.3dm`: Rhino source for the top
